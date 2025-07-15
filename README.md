@@ -43,7 +43,7 @@
 - <b>CCHEIA Certificate</b>
   - [Certificate of Pariticipation](https://github.com/SerGomez15/Certificates/blob/562288c190915f41d18249bafd4aaeff751fd0f2/CCHEIA%20Certificate.pdf)
 - <b>The Data Analyst Course: Complete Data Analyst Bootcamp</b>
- - [Certificate of Completion](https://github.com/SerGomez15/Certificates/blob/79f394c4e713600bbbdadbfb099b6cd13027a4da/The%20Data%20Analyst%20Course%20Complete%20Data%20Analyst%20Bootcamp_Gomez.pdf)
+  - [Certificate of Completion](https://github.com/SerGomez15/Certificates/blob/79f394c4e713600bbbdadbfb099b6cd13027a4da/The%20Data%20Analyst%20Course%20Complete%20Data%20Analyst%20Bootcamp_Gomez.pdf)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ChristianGomez | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
