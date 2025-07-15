@@ -5,17 +5,17 @@
 <h2> Technical Skills</h2>
 
 - <b>Languages & Frameworks</b>
-  - [Python (Basic to Advanced), Java, C#, PHP, Laravel, C++, HTML, CSS]
+  - Python (Basic to Advanced), Java, C#, PHP, Laravel, C++, HTML, CSS
 - <b>Data Analysis & Visualization</b>
-  - [pandas, NumPy, matplotlib, Seaborn, Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA), Text File Processing, API Data Retrieval]
+  - pandas, NumPy, matplotlib, Seaborn, Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA), Text File Processing, API Data Retrieval
 - <b>Databases & Tools</b>
-  - [MySQL, SQL Workbench, XAMPP, SQLite, Excel (Advanced), Git, Jupyter Notebook, Anaconda, NetBeans, Scratch]
+  - MySQL, SQL Workbench, XAMPP, SQLite, Excel (Advanced), Git, Jupyter Notebook, Anaconda, NetBeans, Scratch
 - <b>Technoligies & Concepts</b>
-  - [YOLOv8, Object-Oriented Programming (OOP), CRUD Operations, Image Processing, Agile Development, Data-Driven Decision Making]
+  - YOLOv8, Object-Oriented Programming (OOP), CRUD Operations, Image Processing, Agile Development, Data-Driven Decision Making
 - <b>Software & Utilities</b>
-  - [Cisco Packet Tracer (Networking Basics), Google Workspace, Visual Studio Code (VS Code)]
+  - Cisco Packet Tracer (Networking Basics), Google Workspace, Visual Studio Code (VS Code)
 - <b>Soft Skills</b>
-  - [Analytical Thinking, Technical Communication, Documentation, Collaborative Teamwork, Time Management, Problem Solving, Project Implementation]
+  - Analytical Thinking, Technical Communication, Documentation, Collaborative Teamwork, Time Management, Problem Solving, Project Implementation
 <h2>👨‍💻 Projects, Research and Outputs:</h2>
 
 - <b>Object-Oriented Programming (Intermediate Programming)</b>
