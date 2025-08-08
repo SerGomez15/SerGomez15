@@ -20,10 +20,9 @@
 
 - <b>Object-Oriented Programming (Intermediate Programming)</b>
   - [Practicing Java Netbeans](https://github.com/SerGomez15/JAVA-Netbeans-Programming)
-- <b>Library PC Management (PHP, HTML and SQL)</b>
 - <b>Data Entry Projects</b>
   - [Practicing Data Entry](https://github.com/SerGomez15/Data-Entry-Projects.git)
-- <b>Library PC Management (PHP, HTML and SQL</b>
+- <b>Library PC Management (PHP, HTML and SQL)</b>
   - [Database Management of Library PC ](https://github.com/SerGomez15/Library-PC-Management-Website.git)
 - <b>Photoshop Projects</b>
   - [ADOBE Photohop Projects](https://github.com/SerGomez15/PHOTOSHOP-Projects.git)
